@@ -1,0 +1,4 @@
+The "AI-Powered Face Mask Detection" project addresses the importance of face mask usage in COVID-19 prevention and mask compliance. Leveraging artificial intelligence (AI), the project focuses on classifying facial images to determine if individuals are wearing face masks. 
+Key objectives and results achieved involve building AI classification models using various pre-trained network architectures (InceptionV3, DenseNet121, VGG16, MobileNetV2) and evaluating their performance. 
+The Pretrained models are fine-tuned for this task and tested against of computer vision and convolutional neural networks (CNNs) iclassification metrics for optimal results. The research highlights the potential of AI in enforcing public safety measures, contributing to pandemic control and ensuring compliance. 
+The project underscores the significance in solving pressing human challenges with limited resources.
